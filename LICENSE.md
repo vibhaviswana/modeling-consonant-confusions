@@ -1,6 +1,7 @@
 # BSD 3-Clause License
 
-Copyright (c) 2021, Vibha Viswanathan
+Copyright (c) 2021, Vibha Viswanathan.
+
 All rights reserved.
 
 If you are using this software, please cite:
